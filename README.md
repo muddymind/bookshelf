@@ -1,3 +1,5 @@
+This branch merges PRs from csmarshall to fix qbitorrent integration.
+
 # bookshelf
 
 This is a revival of [Readarr](https://github.com/Readarr/Readarr). The images
